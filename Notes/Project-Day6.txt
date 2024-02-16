@@ -1,0 +1,125 @@
+How to push the code in a GITHUB
+================================
+step1:
+-----
+	Create a account in GITHUB (Source Code Management Tool).
+	ex:
+		https://github.com
+
+step2:
+------
+	Login to GITHUB account using username and password.
+	ex:
+		username : NiyazulHasan 
+		password : ........
+
+step3:
+-----
+	Create a remote repository in GITHUB.
+	ex:
+		 https://github.com/NiyazulHasan/javaproject
+
+step4:
+-----
+	Download and Install GIT software.
+	ex:
+		https://git-scm.com/downloads
+
+step5:
+-----
+	goto "java-project" folder and open git bash. 
+
+step6:
+------
+	Initialize empty git repository.
+	ex:
+		git init
+
+step7:
+-----
+	Move from master branch to main branch.
+	ex:
+		git branch --move master main 	
+
+
+step8:
+-----
+	Add the data to staging area.
+	ex:
+		git add . 
+
+step9:
+-----
+	Check the status.
+	ex:
+		git status 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
