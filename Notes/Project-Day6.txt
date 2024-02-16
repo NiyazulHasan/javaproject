@@ -54,6 +54,54 @@ step9:
 	ex:
 		git status 
 
+step10:
+------
+	commit the changes.
+	ex:
+		git commit -m "my first commit";
+
+step11:
+------
+	Add remote origin.
+	ex:
+		git remote add origin https://github.com/NiyazulHasan/javaproject
+
+
+step12:
+------
+	Check remote origin add or not.
+	ex:
+		git remote -v
+
+step13:
+-----
+	Push the code.
+	ex:
+		git push -f origin main 
+
+step14:
+-------
+	Refresh the remote repository and check the code.
+	ex:
+		https://github.com/NiyazulHasan/javaproject
+
+
+How to pull the code from GITHUB
+=================================
+step1:
+-----
+	Create a folder on desktop i.e demo.
+
+step2:
+-----
+	Initialize the empty git repository using git bash.
+	ex:
+		git init
+step3:
+------
+	Create a pull request.
+	ex:
+		git pull https://github.com/NiyazulHasan/javaproject
 
 
 
